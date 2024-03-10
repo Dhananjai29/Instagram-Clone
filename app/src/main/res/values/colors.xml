@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="instaPink">#C13584</color>
+    <color name="instaPurple">#833AB4</color>
+    <color name="InstaBlue">#5B51D8</color>
+    <color name="InstaRoyalBlue">#405DE6</color>
+</resources>
